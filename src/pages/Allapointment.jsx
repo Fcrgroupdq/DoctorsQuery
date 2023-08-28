@@ -2,7 +2,10 @@ import React from 'react'
 
 const Allapointment = () => {
   return (
-    <div>Allapointment</div>
+    <div>
+    <h2> <center> All Appointment </center></h2>
+    </div>
+    
   )
 }
 

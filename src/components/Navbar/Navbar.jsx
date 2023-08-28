@@ -50,8 +50,8 @@ export default function Navbar() {
                   <div className="flex flex-shrink-0 items-center">
                     <img
                       className="h-8 w-auto"
-                      src="https://tailwindui.com/img/logos/mark.svg?color=indigo&shade=500"
-                      alt="Your Company"
+                      src="https://doctorsqueries.com/wp-content/uploads/2022/08/cropped-DoctorQueries-Logo-No-Bg-1-1.png"
+                      alt="Doctors Queries"
                     />
                   </div>
                   <div className="hidden sm:ml-6 sm:block">

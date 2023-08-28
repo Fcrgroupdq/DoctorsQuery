@@ -15,10 +15,10 @@ import {
 
 const navigation = [
   { name: "Home", href: "/", current: true },
-  { name: "doctors", href: "/doctors", current: false },
-  { name: "hospitals", href: "/hospitals", current: false },
-  { name: "about", href: "/about", current: false },
-  { name: "appointment", href: "/appointments", current: false },
+  { name: "Doctors", href: "/doctors", current: false },
+  { name: "Hospitals", href: "/hospitals", current: false },
+  { name: "About Us", href: "/about", current: false },
+  { name: "Make An Appointment", href: "/appointments", current: false },
 ];
 
 function classNames(...classes) {

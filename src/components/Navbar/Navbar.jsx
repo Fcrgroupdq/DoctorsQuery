@@ -14,7 +14,7 @@ import {
 } from "@chakra-ui/react";
 
 const navigation = [
-  { name: "home", href: "/", current: true },
+  { name: "Home", href: "/", current: true },
   { name: "doctors", href: "/doctors", current: false },
   { name: "hospitals", href: "/hospitals", current: false },
   { name: "about", href: "/about", current: false },

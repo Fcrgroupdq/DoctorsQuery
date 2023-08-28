@@ -99,7 +99,7 @@ export default function Footer() {
               </Stack>
             </Stack>
             <Stack align={"flex-start"}>
-              <ListHeader>Company</ListHeader>
+              <ListHeader>Quick Links</ListHeader>
               <Box as="a" href={"#"}>
                 About us
               </Box>
